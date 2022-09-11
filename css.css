@@ -60,6 +60,7 @@ body {
   width: 8vh;
   cursor: pointer;
   background-color: rgb(255, 255, 255);
+  border: 1px solid;
 }
 .b1 {
   display: flex;
